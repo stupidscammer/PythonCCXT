@@ -1,0 +1,51 @@
+CHoCH----
+    Green 
+        dot line,  from   Red    to    Green
+                   from   Green  to    Green
+                   from   Red    to    Red 
+        dash line, from   Green  to    Green
+    Red
+        dot  line, from   Red    to    Red
+        dash line, from   Red    to    Red
+EQH------
+    Green
+        dot line,
+    Red
+        short dot line,  from   Green    to   Green
+                         from   Green    to   Red
+EQL------
+    Green
+        short dot line,  from   Green    to   Red
+                         from   Red      to   Green
+                         from   Red      to   Red
+    Red
+        dot line,      
+BOS------
+    Green
+        dot line, from   Red      to    Green
+                  from   Green    to    Green
+    Red
+        dot line, from   Red      to    Red
+        dash line from   Red      to    Red
+Rectangle-
+    Green 
+        from Green, Red
+    Red   
+        from Green
+Strong Low-   
+    Green
+        dash line    from      Red
+Weak High-
+    Red
+        dash line    from      Red
+
+
+
+
+
+////////////////////
+line
+    Red 
+        from Red   
+short dot line 
+    Red
